@@ -93,3 +93,41 @@ Grinewald's mastery of color is exemplified by the Isenheim altarpiece, where he
 **Three Points of View in Studying Color**: Studying color involves constructional, expressional, and impressional perspectives. Symbolism without visual accuracy and emotional force is mere formalism, while visually impressive effects without symbolic and emotional power are banal. Emotional effects without constructive content or visual strength are limited to sentimental expression.
 
 **Defining Color Quality and Brilliance**: The quality of a color refers to its position in the color circle or solid, with unique chromas resulting from mixtures. Brilliance, or tonal gradation, is the degree of lightness or darkness, varied by mixing with white, black, gray, or another color of unlike brilliance.
+
+---
+
+## Color physics
+
+**Newton's Spectrum Analysis**: In 1676, Sir Isaac Newton used a triangular prism to analyze white sunlight into a spectrum of colors, excluding purple. By passing sunlight through a slit and prism, he dispersed the light into a continuous band of colors from red to violet. Collecting these colors with a converging lens recombined them into white light. This process, known as refraction, is one of several physical methods to generate colors, including interference, diffraction, polarization, and fluorescence.
+
+**Complementary Colors**: Dividing the spectrum into two parts (e.g., red-orange-yellow and green-blue-violet) and mixing each part with a lens results in two mixed colors that, when combined, yield white. These pairs are called complementary colors. Each spectral hue complements the mixture of all other spectral hues.
+
+**Light Waves and Color Perception**: Colors result from light waves, a type of electromagnetic energy. The human eye perceives light wavelengths between 400 and 700 millimicrons. Each prismatic color has specific wavelengths and frequencies. Color arises in the human eye and brain, not from the light waves themselves.
+
+**Subtractive Colors**: Colors of objects are primarily subtractive, meaning they absorb certain wavelengths and reflect others. For example, a red object absorbs all colors except red. When illuminated with a color it cannot reflect, it appears black. Painter's colors are pigmentary and follow the rules of subtraction, where mixing complementary colors results in black.
+
+**Additive Colors**: In contrast, mixing prismatic, non-corporeal colors (light) results in white, known as additive color mixing.
+
+Here are the physical ways of generating colors:
+
+1. **Refraction**: This occurs when light passes through a medium and bends, separating into its component colors. Sir Isaac Newton's prism experiment is a classic example, where white light is dispersed into a spectrum of colors¹.
+
+2. **Interference**: This phenomenon happens when two or more light waves overlap, either amplifying (constructive interference) or canceling each other out (destructive interference). Thin film interference, like the colors seen in soap bubbles or oil slicks, is a common example².
+
+3. **Diffraction**: This occurs when light waves bend around obstacles or pass through narrow slits, causing the light to spread out and create patterns of colors. The famous double-slit experiment demonstrates this effect².
+
+4. **Polarization**: Polarization involves filtering light waves so that they vibrate in a single plane. This can be achieved through reflection, refraction, or scattering. Polarized sunglasses use this principle to reduce glare³.
+
+5. **Fluorescence**: This happens when a substance absorbs light at one wavelength and emits it at a longer wavelength. Fluorescent materials, like those used in highlighters or certain minerals, exhibit this property¹.
+
+These methods illustrate the diverse ways in which colors can be generated and manipulated through physical processes. If you have any specific questions about these phenomena, feel free to ask!
+
+Source: Copilot، 15/8/2024 
+
+¹: [INTERFERENCE, DIFFRACTION, AND POLARIZATION - University of Colorado ....](https://academics.uccs.edu/rgist/PES/PES1000/resources/Presentations/PDF/45_InterfDiffrPolarization.pdf). 
+
+²: [Chapter Two: Interference, Diffraction and Polarization.](https://uomustansiriyah.edu.iq/media/lectures/6/6_2019_03_19!02_03_50_PM.pdf) 
+
+³: [Color and Polarization - Physics | Socratic.](https://socratic.org/physics/light-and-reflection/color-and-polarization)
+
+4: [Chapter 1 Introduction - SPIE.](https://spie.org/samples/TT109.pdf)

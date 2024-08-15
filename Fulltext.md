@@ -228,3 +228,43 @@ Having spoken of three different points of view for purposes of studying color �
 To avoid confusion, I should like to define two terms. 
     By the quality of a color, I mean its position or location inside the color circle or solid. Both the pure unclouded colors and all their possible mixtures with each other yield unique chromas. The color green, for example, may be mixed with yellow, orange, red, violet, blue, white or black, and acquires a specific unique quality by each of these admixtures. Each possible modification of a color effect by simultaneous influences likewise generates specific color qualities.
 When we are to specify the degree of lightness or darkness of a color, we may speak of its quantity or brilliance. This is what I occasionally refer to as tonal gradation. Brilliance can be varied in two ways; firstly, by mixing a color with white, black or gray, and secondly by mixing it with another color of unlike brilliance. 
+
+### COLOR PHYSICS 
+
+![Fig. 1](Image/1.jpg "Fig. 1")
+
+In 1676, Sir Isaac Newton, using a triangular prism, analyzed white sunlight into a spectrum of colors. Such a spectrum contains all hues except purple. 
+    Newton performed his experiment as follows (Fig. 1): Sunlight entering through a slit falls upon the prism. In the prism, the ray of white light Is dispersed into the spectral colors. The dispersed ray of light can be projected on a screen to display the spectrum. A continuous band of color ranges from red through orange, yellow, green, blue, to violet. If this image is collected by means of a converging lens, addition of the colors will yield white light once again. 
+These colors are produced by refraction. There are other physical ways of generating colors, such as interference, diffraction, polarization and fluorescence.
+
+If we divide the spectrum into two parts, for example red-orange-yellow and green-blue-violet, and collect each of these two groups with a converging lens, the result will be two mixed colors, whose mixture with each other in turn yields white. 
+    Two kinds of colored light whose mixture with each other yields white are called complementary. 
+If we isolate one hue from the prismatic spectrum, for example green, and collect the remaining colors — red, orange, yellow, blue, violet — with a lens, the mixed color obtained will be red, i.e. the complementary color of the green we isolated. If we take out yellow, the remaining colors — red, orange, green, blue, violet — will yield violet, the complementary of yellow. 
+    Each spectral hue is the complement of the mixture of all the other spectral hues. 
+We cannot see the component hues in a mixed color. The eye is not like the musical ear, which can single out any of the individual tones in a mixture. 
+
+Colors result from light waves, a particular kind of electromagnetic energy. The human eye can perceive light of wave lengths between 400 and 700 millimicrons only. 
+1 micron or 1u = 1/1000 mm. = 1/1000000 m, 
+1 millimicron or 1 mu = 1/1000000 mm. 
+    The wave lengths and corresponding frequencies, in cycles per second, for each prismatic color, are as follows:
+
+|Color | Wave Length, mu | Frequency, cps |
+|:-----|:---------------:|:--------------:|
+|Red | 800 - 650 | 400 - 470 million million |
+|Orange | 640 - 590 | 470 - 520 million million |
+|Yellow | 580 - 550  | 520 - 590 million million |
+|Green | 530 - 490 | 590 - 650 million million |
+|Blue | 480 - 460 | 650 - 700 million million |
+|Indigo | 450 - 440 | 700 - 760 million million |
+|Violet | 430 - 390 | 760 - 800 million million |
+
+The harmonic interval from red to violet is approximately the double; i.e. an octave. 
+    Each hue can be accurately defined by specifying its wave length or frequency. The light waves are not in themselves colored. Color arises in the human eye and brain. How we discriminate these wave lengths is not yet well understood. We know only that the several colors arise from qualitative differences in photosensitivity. 
+
+It remains to consider the important question of the colors of objects. If we hold a red and a green color filter, for example, in front of an arc lamp, the two together will give black, or darkness. The red filter absorbs all the rays in the spectrum except for the red interval, and the green filter absorbs all but the green. So no color is left over, and the effect is black. Colors resulting from absorption are known as subtractive colors. 
+    The colors of objects are chiefly subtractive colors of this nature. A red vessel looks red because it absorbs all other colors of light, and reflects only red. 
+When we say, “This bowl is red,” what we are really saying is that the molecular constitution of its surface is such as to absorb all light rays but those of red. The bowl does not have color in itself; light generates the color. 
+    If red paper — a surface absorbing all rays but the red — is illuminated with green light, the paper will appear black, because the green light contains no red to be reflected. 
+
+All the painter's colors are pigmentary, or corporeal. They are absorptive colors, and their mixtures are governed by the rules of subtraction. When complementary colors, or combinations containing the three primaries, yellow, red, and blue, are mixed in certain proportions, the subtractive resultant is black. 
+    The analogous mixture of prismatic, non-corporeal colors yields white as an additive resultant. 

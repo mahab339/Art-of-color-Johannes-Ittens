@@ -131,3 +131,15 @@ Source: Copilot، 15/8/2024
 ³: [Color and Polarization - Physics | Socratic.](https://socratic.org/physics/light-and-reflection/color-and-polarization)
 
 4: [Chapter 1 Introduction - SPIE.](https://spie.org/samples/TT109.pdf)
+
+---
+
+## Color agent and color effect
+
+**Color Agent and Color Effect**: The color agent refers to the physically or chemically definable pigment, while color effect is the psychophysiological perception of color. The eye and mind achieve distinct perception through comparison and contrast, determining the value of a chromatic color in relation to achromatic colors (black, white, gray) or other chromatic colors.
+
+**Perception and Contrast**: Color perception is influenced by its context. For example, a white square on a black background appears larger than a black square on a white background. Similarly, colors like yellow, red, and blue change their perceived brightness and warmth depending on whether they are placed on white or black backgrounds.
+
+**Simultaneity and Color Composition**: The concept of simultaneity refers to the simultaneous perception of different colors and their effects. This suggests that in color composition, starting with the desired color effect and then developing the size and shape of areas accordingly is advisable. Colors have their own dimensions and directionality, which should guide the composition process.
+
+**Design and Color Areas**: Effective color composition begins with color areas, which then determine the lines. Drawing lines first and adding color later often fails to produce a clear, intense color effect. Colors delineate areas in their own unique way, emphasizing the importance of starting with color in the design process.

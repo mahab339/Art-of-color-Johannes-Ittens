@@ -143,3 +143,13 @@ Source: Copilot، 15/8/2024
 **Simultaneity and Color Composition**: The concept of simultaneity refers to the simultaneous perception of different colors and their effects. This suggests that in color composition, starting with the desired color effect and then developing the size and shape of areas accordingly is advisable. Colors have their own dimensions and directionality, which should guide the composition process.
 
 **Design and Color Areas**: Effective color composition begins with color areas, which then determine the lines. Drawing lines first and adding color later often fails to produce a clear, intense color effect. Colors delineate areas in their own unique way, emphasizing the importance of starting with color in the design process.
+
+## Concord of colors
+
+**Color Harmony**: Color harmony refers to the joint effect of two or more colors. People's judgments of harmony and discord vary, often based on personal sentiments. Harmonious color combinations typically involve similar chromas or colors in the same shades, meeting without sharp contrast. The concept of color harmony should be based on objective principles rather than subjective attitudes, implying balance and symmetry of forces.
+
+**Physiological Phenomena in Color Vision**: Examining physiological phenomena can help solve the problem of color harmony. For example, staring at a green square and then closing your eyes produces a red afterimage, and vice versa. This phenomenon, known as successive contrast, shows the eye's tendency to seek equilibrium by positing the complementary color. Simultaneous contrast occurs when a gray square in an area of pure color appears tinged with the complementary color of the surrounding hue.
+
+**Complementary Colors and Harmony**: Successive and simultaneous contrast suggest that the human eye achieves equilibrium when complementary colors are present. In 1797, Rumford hypothesized that colors are harmonious if they mix to give white. Physically mixing a color with its complementary color yields white light, while pigmentary mixtures result in gray-black.
+
+**Ewald Hering's Perspective**: Physiologist Ewald Hering stated that medium or neutral gray corresponds to a state of equilibrium in the eye, where the consumption and regeneration of the optic substance are equal. This balance generates a state of complete equilibrium in the eye.

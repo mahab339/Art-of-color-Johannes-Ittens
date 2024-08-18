@@ -153,3 +153,15 @@ Source: Copilot، 15/8/2024
 **Complementary Colors and Harmony**: Successive and simultaneous contrast suggest that the human eye achieves equilibrium when complementary colors are present. In 1797, Rumford hypothesized that colors are harmonious if they mix to give white. Physically mixing a color with its complementary color yields white light, while pigmentary mixtures result in gray-black.
 
 **Ewald Hering's Perspective**: Physiologist Ewald Hering stated that medium or neutral gray corresponds to a state of equilibrium in the eye, where the consumption and regeneration of the optic substance are equal. This balance generates a state of complete equilibrium in the eye.
+
+**Equilibrium and Medium Gray**: Hering demonstrates that the eye and brain require medium gray to maintain equilibrium. Viewing a white square on a black background and then looking away results in a black afterimage, and vice versa. However, viewing a medium-gray square on a medium-gray background produces no afterimage, indicating that medium gray satisfies the eye's need for balance.
+
+**Psychophysical State of Equilibrium**: Harmony in our visual system signifies a state where the dissimilation and assimilation of optic substances are equal. Neutral gray, which can be mixed from black and white or complementary colors, achieves this state. Complementary colors contain all three primary colors (yellow, red, and blue), and their mixture yields gray, satisfying the eye's need for totality and harmony.
+
+**Harmonious and Discordant Colors**: Colors are harmonious if their mixture results in neutral gray. Other combinations that do not yield gray are expressive or discordant. Some great paintings use a one-sided, expressive color composition, which can be exciting and provocative. Seurat's statement "Art is harmony" is seen as mistaking a means of art for its end.
+
+**Principle of Complementaries**: The basic principle of harmony is derived from the rule of complementaries. Goethe explains that when the eye sees a color, it naturally produces the complementary color to achieve totality. This fundamental rule underlies all color harmony.
+
+**Ostwald's View on Harmony**: Wilhelm Ostwald discusses color harmony in terms of order. Pleasing color combinations have an orderly relationship, while lacking this order results in displeasing effects. Ostwald's color circles of equal shade and triangles of like hue represent harmonious orders. However, Itten argues that harmony should be based on objective principles rather than subjective attitudes.
+
+**Color Circle and Classification**: An essential foundation of aesthetic color theory is the color circle, which determines color classification. For practical use in painting, diametrically opposed colors must be complementary and mix to yield gray. Itten's color circle, where blue stands opposite to orange, is more suitable for painting than Ostwald's, where blue stands opposite to yellow.

@@ -165,3 +165,23 @@ Source: Copilot، 15/8/2024
 **Ostwald's View on Harmony**: Wilhelm Ostwald discusses color harmony in terms of order. Pleasing color combinations have an orderly relationship, while lacking this order results in displeasing effects. Ostwald's color circles of equal shade and triangles of like hue represent harmonious orders. However, Itten argues that harmony should be based on objective principles rather than subjective attitudes.
 
 **Color Circle and Classification**: An essential foundation of aesthetic color theory is the color circle, which determines color classification. For practical use in painting, diametrically opposed colors must be complementary and mix to yield gray. Itten's color circle, where blue stands opposite to orange, is more suitable for painting than Ostwald's, where blue stands opposite to yellow.
+
+Certainly! Here are the summarized paragraphs from the provided material:
+
+Having defined harmony, we now explore the quantitative relationships among colors in harmonious compositions. Goethe estimated the luminosities of primary colors, deriving the proportionality: yellow : red : blue = 3 : 6 : 8.
+
+Complementary pairs, triads forming equilateral or isosceles triangles, and tetrads forming squares or rectangles in the twelve-member color circle are harmonious. Figures 7 and 8 illustrate the harmonious triad of yellow/red/blue, forming an equilateral triangle on the color circle. This triad expresses the highest intensity and force of color, with each color maintaining its distinct character. The eye requires no additional colors, and their mixture results in a dark gray-black.
+
+Figures 9, 10, and 11 show the harmonious tetrad of yellow/red-orange/violet/blue-green. Figure 9 presents these colors in their natural brilliance, occupying continuous harmonious areas. In Figure 10, the colors are broken into small squares, creating instability but enhancing the combination's plastic force. Reducing the brilliance to two levels in Figure 11 results in a two-dimensional effect, with a strong cold-warm contrast between red-orange and blue-green/violet. This transformation creates a new, suspensional timbre. Further reducing the brilliance to one, making all colors as bright as yellow, would yield a different tone.
+
+Harmonious combinations can be varied in many ways. Geometrical figures like equilateral and isosceles triangles, squares, and rectangles can be drawn from any point on the color circle and rotated to create different harmonious combinations. Further discussion on harmonic variations is provided in the relevant section.
+
+Source: Copilot، 19/8/2024 
+
+1: [The Art of Color: The Subjective Experience and Objecti….](https://www.goodreads.com/book/show/967310.The_Art_of_Color)
+
+2: [The Art of Color - Google Books.](https://books.google.com/books/about/The_Art_of_Color.html?id=D-skaDZAumIC)
+
+3: [The Elements of Color: A Treatise on the Color System of Johannes Itten ....](https://www.goodreads.com/book/show/967309.The_Elements_of_Color)
+
+---

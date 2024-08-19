@@ -330,3 +330,27 @@ Any other color combinations, the mixture of which does not yield gray, are expr
     &nbsp;&nbsp;&nbsp;&nbsp;Where Ostwald says, “...colors whose effect is pleasing, we call harmonious,” he implies a subjective criterion of harmony. But the concept of harmony should be removed from the realm of subjective attitude to that of objective principle, as I said previously.<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;Where Ostwald says, “Harmony = Order,” and gives the color circles of equal shade and the color triangles of like hue as instances of order, he neglects the physiological laws of afterimage and simultaneity.<br> 
     &nbsp;&nbsp;&nbsp;&nbsp;One essential foundation of any aesthetic color theory is the color circle, because that will determine the classification of colors. The color artist must work with pigments, and therefore his color classification must be constructed in terms of the mixing of pigments. That is to say, diametrally opposed colors must be complementary, mixing to yield gray. Thus in my color circle, the blue stands opposite to an orange; upon mixing, these colors give gray. In Ostwald’s color circle, the blue stands opposite to a yellow, the pigmentary mixture yielding green. This fundamental difference in construction means that Ostwald’s color circle is not serviceable to painting and the applied arts. 
+
+Having provided ourselves with a definition of harmony, let us proceed to the quantitave relationships among colors in harmonious composition. Goethe estimated the luminosities of the primary colors, and derived the following proportionality of areas: 
+yellow : red : blue — 3 : 6 : 8 
+
+![Fig. 6](Image/4.jpg "Fig. 6")
+![Figs. 7 and 8](Image/5.jpg "Figs. 7 and 8")
+![Figs. 9, 10, 11](Image/6.jpg "Figs. 9, 10, 11")
+
+We can make the general statement that all complementary pairs, all triads whose colors form equilateral or isosceles triangles in the twelve-member color circle, and all tetrads forming squares or rectangles, are harmonious (Fig. 6).<br> 
+    &nbsp;&nbsp;&nbsp;&nbsp;Figs. 7 and 8 illustrate the harmonious triad yellow/red/blue. Each of the colors is presented in its typical and unmistakable character. Locating these hues on the 12-hue color circle, I get an equilateral triangle. This triad expresses the highest intensity and force of color. In the combination, each has its static effect; that is, the yellow acts as yellow, the red as red, the blue as blue. The eye demands no additional, completing colors, and the mixture of the three is a dark gray-black.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;Figs. 9, 10, 11 show the harmonious tetrad yellow/red-orange/violet/blue-green. 
+
+Fig. 9 shows the four colors in their natural brilliances, occupying continuous areas of harmonious size. 
+
+In Fig. 10, the same colors have been broken up into many small squares. The four different brilliances produce instability, but the plastic force of the combination is more pronounced than in Fig. 9. 
+
+When I reduce the four degrees of brilliance to two, as in Fig. 11, the effect of the tetrad is two-dimensional. Between red-orange and blue-green/violet, a strong effect of cold-warm contrast develops. The static, fixed concord of Fig. 10 has been transformed, by reduction to two brilliances, into a new, suspensional timbre. If I reduced the four brilliances to one, painting all the colors as bright as yellow, the tone would again be entirely different. 
+
+Thus a harmonious combination can be varied in many ways.<br> 
+    &nbsp;&nbsp;&nbsp;&nbsp;The geometrical figures used — equilateral and isosceles triangles, square and rectangle — may of course be drawn from any given point on the circle. I can rotate them on the circle, thus replacing the triangle yellow/red/blue by the triangle yellow-orange/red-violet/blue-green, or the triangle orange/violet/green, or the triangle red-orange/blue-violet/yellow-green. 
+
+I can do the same with the other geometrical figures. Further discussion will be found in the section on harmonic variations. 
+
+---

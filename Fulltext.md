@@ -131,7 +131,7 @@ Delacroix wrote, “The elements of color theory have been neither analyzed nor 
 
 As the tortoise draws its limbs into its shell at need, so the artist reserves his scientific principles when working intuitively. But would it be better for the tortoise to have no legs? 
 
-Color is life; for a world without colors appears to us as dead. Colors are primordial ideas, children of the aboriginal colorless light and its counterpart, colorless darkness. As flame begets light, so light engenders colors. Colors are the children of light, and light ts their mother. Light, that first phenomenon of the world, reveals to us the spirit and living soul of the world through colors. 
+Color is life; for a world without colors appears to us as dead. Colors are primordial ideas, children of the aboriginal colorless light and its counterpart, colorless darkness. As flame begets light, so light engenders colors. Colors are the children of light, and light is their mother. Light, that first phenomenon of the world, reveals to us the spirit and living soul of the world through colors. 
 
 Nothing affects the human mind more dramati- cally than the apparition of a gigantic color corona in the heavens. Thunder and lightning frighten us; but the colors of the rainbow and the northern lights soothe and elevate the soul. The rainbow is accounted a symbol of peace. 
 
@@ -302,7 +302,7 @@ When people speak of color harmony, they are evaluating the joint effect of two 
     &nbsp;&nbsp;&nbsp;&nbsp;The color combinations called “harmonious” in common speech usually are composed of closely similar chromas, or else of different colors in the same shades. They are combinations of colors that meet without sharp contrast. As a rule, the assertion of harmony or discord simply refers to an agreeable-disagreeable or attractive-unattractive scale. Such judgments are personal sentiments without objective force. The concept of color harmony should be removed from the realm of subjective attitude into that of objective principle.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Harmony implies balance, symmetry of forces.<br>
     &nbsp;&nbsp;&nbsp;&nbsp;An examination of physiological phenomena in color vision will bring us closer to a solution of the problem.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;If we gaze for some time at a green square and then close our eyes, we see, as an afterimage, a red square. If we look at a red square, the after- image is a green square. This experiment may be repeated with any color, and the afterimage always turns out to be of the complementary color. The eye posits the complementary color; it seeks to restore equilibrium of itself. This phenomenon is referred to as successive contrast. 
+&nbsp;&nbsp;&nbsp;&nbsp;If we gaze for some time at a green square and then close our eyes, we see, as an afterimage, a red square. If we look at a red square, the after-image is a green square. This experiment may be repeated with any color, and the afterimage always turns out to be of the complementary color. The eye posits the complementary color; it seeks to restore equilibrium of itself. This phenomenon is referred to as successive contrast. 
 
 In another experiment, we insert a gray square in an area of pure color of the same brilliance. On green, the gray will look reddish gray. On red, it will seem greenish gray; on violet, yellowish gray; and on yellow, violet-gray. Each color causes the gray to be tinged with its complementary. Pure colors also have the tendency to shift other chromatic colors towards their own complement. This phenomenon is referred to as simultaneous contrast.<br>
     &nbsp;&nbsp;&nbsp;&nbsp;Successive and simultaneous contrast suggest that the human eye is satisfied, or in equilibrium, only when the complemental relation is established. Let us approach this idea from a different direction.<br>
@@ -354,3 +354,35 @@ Thus a harmonious combination can be varied in many ways.<br>
 I can do the same with the other geometrical figures. Further discussion will be found in the section on harmonic variations. 
 
 ---
+
+### SUBJECTIVE TIMBRE 
+
+In 1928, I was assigning harmonic color combinations to an art class. They were to be painted into complete circular areas, in sectors of unspecified size. I had not yet offered any definition of color harmony. After working away for twenty minutes or so, the class became very restless. I inquired what was the matter, and was told, “We all think that the combinations you assigned are not harmonious. We find them discordant and unpleasant.” 
+    I replied, “All right, let each of you paint whatever combinations he finds pleasant and harmonious.” 
+The class quieted down at once, all eager to prove to me that my color combinations were wrong. 
+    After an hour, I had the finished sheets spread out on the floor for inspection. Each student had painted several original, closely similar combinations on his sheet. But each student's work was very different from the others.
+It was realized with astonishment that each had his own private conception of color harmony. 
+    In closing this interesting session, I remarked, “The color combinations constructed as harmonious by each individual here represent individual subjective opinion. This is subjective color.” 
+
+That early observation was to be followed by many more in ensuing years, and I have a large body of documentation in my possession today. 
+
+In order for this type of experiment to be successful, the painters must first have been sensitized to color generally. Without prior intensive study of the palette, and practice with brush and paints, reliable results cannot be obtained. 
+    Experiments in subjective color should be initiated very carefully. Any suggestion that subjective color may reveal character or mode of thought and feeling should be avoided. Many people have inhibitions about showing themselves as they are. Anyone who works with color in his vocation is likely to have difficulty in discovering his subjective colors. Again, early attempts at color combinations are frequently wish fulfillments; subjects paint their complementary colors, or combinations in commercial vogue, instead of reflecting themselves. 
+Harmonies may be very close, with only two or three colors appearing, as light blue, medium gray, white and black, or dark brown-red, light brown-red and black, or yellow-green, yellow and black-brown, et cetera. 
+    Again, their scope may be very wide - yellow, red, blue, in many degrees of saturation, also two or more pure colors in many different shades. 
+Between people with very narrow and very wide color scales, there are all conceivable intermediate positions. 
+    There are subjective combinations in which one hue dominates quantitatively, all tones having accents of red, or yellow, or blue, or green, or violet, so that one is tempted to say that such-and-such a person sees the world in a red, yellow or blue light. It is as if he saw everything through tinted spectacles, perhaps with thoughts and feelings correspondingly colored. 
+
+In my studies of subjective color, I have found that not only the choice and juxtaposition of hues but also the size and orientation of areas may be highly characteristic. Some individuals orient all areas vertically; others stress the horizontal or diagonal. Orientation is a clue to mode of thought and feeling. Some individuals incline towards crisp and sharply bounded color areas, others to interpenetrating or blurred and haphazard patches. Individuals of the latter kind are not given to clear and simple thinking. They may be quite emotional and sentimentally disposed. 
+
+In any attempt to account for subjective color, we must attend to the most minute traits; but the essential factor is the “aura” of the person.
+
+Some examples will illustrate different subjective color types. 
+
+![Figs. 12, 13, and 14](Image/7.jpg "Figs. 12, 13, and 14")
+
+Figs. 13, 14, the work of the young woman in Fig. 12, exhibit very pure colors, and a large number of clearly distinguished chromas. For her, the fundamental contrast is that of hue. 
+
+![Figs. 15, 16, and 17](Image/8.jpg "Figs. 15, 16, and 17")
+
+Figs. 16, 17 show the subjective tones of another student. Strong color seethes and clamors in the darker shades. Black is assigned a major role in the total concord, and pure colors are shot with black. Yellow is present in small amount, but glows with a pure ray in the somber whole. Blue-red is augmented towards violet, and contrasts with dull, complementary yellow-green. The strong, obscure chord displays a multitude of distinguishable shades, suggesting a lively and concentrated personality with intense feeling. 

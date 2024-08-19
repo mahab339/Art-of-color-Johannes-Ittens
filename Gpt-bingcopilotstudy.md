@@ -185,3 +185,13 @@ Source: Copilot، 19/8/2024
 3: [The Elements of Color: A Treatise on the Color System of Johannes Itten ....](https://www.goodreads.com/book/show/967309.The_Elements_of_Color)
 
 ---
+
+## Subjective timbre
+
+In 1928, Johannes Itten assigned harmonic color combinations to an art class without defining color harmony. The students found the combinations discordant and unpleasant. Itten then allowed each student to paint their own harmonious combinations, revealing that each had a unique perception of color harmony. This experiment highlighted the concept of subjective color, where individual preferences dictate what is considered harmonious.
+
+Itten observed that successful experiments in subjective color require prior sensitization to color through intensive study and practice. He noted that subjective color experiments should be approached carefully to avoid revealing personal traits or feelings, as many people are hesitant to expose their true selves. Early attempts often reflect wish fulfillments rather than true personal preferences.
+
+Subjective color harmonies can range from narrow palettes with only a few colors to wide scales with many shades. Some individuals may see the world through a dominant hue, influencing their perception and emotional response. The choice and arrangement of colors, as well as the size and orientation of areas, can reveal much about a person's thought processes and emotional state.
+
+Itten's studies showed that subjective color choices are highly individualistic. For example, one student might use pure, distinct colors with a focus on hue contrast, while another might prefer darker shades with black accents, suggesting a more intense and emotional personality. These observations underscore the importance of considering individual differences in color perception and harmony.

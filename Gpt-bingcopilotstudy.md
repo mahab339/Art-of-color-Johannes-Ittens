@@ -203,3 +203,32 @@ The development of a painting personality should stem from an individual's inher
 Art education faces two main challenges: enhancing individual creative aptitudes and teaching general objective rules of form and color. Assignments should align with students' subjective forms and colors to amplify their natural abilities. For instance, the student of Fig. 15 should explore themes like Night and Grief, using soft charcoal or black and white pigments, while the girl of Fig. 12 should focus on vivid subjects like Springtime and Bright Flowers, avoiding light-dark contrasts.
 
 It is essential to provide individualized, subjectively slanted assignments rather than imposing standard studies on all students. This approach allows students to intuitively find correct solutions and prevents them from struggling with themes that are alien to their nature. Once students grasp their color principles, they can engage in elementary exercises in various form and color contrasts, discovering their preferences and challenges. Grounding in universal principles is necessary for all students, as it generates natural tensions that inspire new creations.
+
+#### Subjective Timbre and Artistic Preferences
+Illustrating contrasts through analyses of past and present paintings greatly benefits learners. Encountering works that challenge and interest them helps learners identify their preferences and masters. Some may be drawn to light-dark contrasts, others to hue, form, or architectural composition. Preferences can vary widely, from the strong colorism of the Expressionists to the shape nihilism of the Tachistes.
+
+#### Discovering Key Colors
+A student initially painted with gray, blue, white, and red, which seemed to be her key colors. However, she later experimented with orange, black, and purple, showing her broad and deep personality. Her exercises on the four seasons were strongly defined, with summer and autumn showing the most power and life. Her subjective color combinations revealed inner structures not evident in her outward personality.
+
+#### Understanding Total Personality
+The total personality is rarely fully comprehended through subjective colors alone. Physical, mental, or spiritual aspects may dominate, or various composites may be present. The emphasis varies with individual temperament and disposition. Teachers, physicians, and vocational counselors can draw valuable inferences from subjective colors.
+
+#### Case Studies of Subjective Colors
+One student’s subjective colors were light violet, light blue, blue-gray, yellow, white, and a touch of black, indicating a hard, cold, and somewhat brittle tone. Despite his affinity for metals and glass, he became a successful architect in concrete and glass. Another student’s colors included orange-brown, ocher, red-brown, and black, leading him to become a woodworker. A third student’s colors of light-violet, yellowish, and gold-brown suggested great concentration and a religious tendency, leading him to become a sacristan and engraver.
+
+#### Vocational Suitability
+A person can only excel in an occupation that suits their constitution and for which they have the requisite aptitudes. The subjective colors can provide insights into an individual's natural inclinations and potential career paths.
+
+**Tachisme** (or Tachism) is a French style of abstract painting that emerged in the 1940s and 1950s. The term is derived from the French word "tache," meaning "stain" or "spot." This art movement is characterized by spontaneous brushwork, drips, and blobs of paint applied directly from the tube, often creating irregular dabs and splotches of color¹².
+
+Tachisme was a reaction against the structured forms of Cubism and geometric abstraction. Instead, it embraced an intuitive and instinctive form of expression, similar to the action painting seen in American Abstract Expressionism¹. Artists working in this style often used techniques like pouring paint, using perforated containers, or applying paint with fingers to create their works².
+
+Notable artists associated with Tachisme include Jean Dubuffet, Pierre Soulages, and Georges Mathieu¹. The movement is also closely related to Art Informel, which emphasizes a lack of premeditated structure and a more spontaneous approach to art¹.
+
+Source: Copilot، 26/8/2024 
+
+¹: [Tachisme - Wikipedia.](https://en.wikipedia.org/wiki/Tachisme). 
+
+²: [Tachisme - Definition, History, Paintings | Arthive.](https://arthive.com/encyclopedia/4289~Tachisme) 
+
+3: [Tachiste - definition of tachiste by The Free Dictionary.](https://www.thefreedictionary.com/tachiste)

@@ -262,3 +262,41 @@ Source: Copilot، 28/8/2024
 5: [The Art of Color: The Subjective Experience and Objecti….](https://www.goodreads.com/book/show/967310.The_Art_of_Color)
 
 ---
+
+## Theory of color design
+
+Constructive color theory involves principles of color effects derived empirically. When Rainer Maria Rilke asked Rodin about the creative process, Rodin described it as starting with an intense feeling that becomes concrete, leading to planning and design, and finally, execution guided by feeling. Cézanne and Matisse also balanced rational planning with intuitive feeling in their work, showing that while calculated plans are important, intuitive feeling ultimately guides the creative process.
+
+Intuitive feeling navigates the irrational and metaphysical realms, surpassing deliberate intellectual construction. To learn objective color principles, one must practice by reproducing charts and exercises. The book provides elementary examples, but students should create their own plates for other colors to progress beyond theoretical knowledge.
+
+---
+
+## 12-hue color circle 
+
+![Fig. 37](Image/15.jpg "Fig. 37")
+
+1. **Introduction to the 12-Hue Color Circle**:
+   - The 12-hue color circle is developed from the primary colors: yellow, red, and blue.
+   - Each primary color is placed in an equilateral triangle, with yellow at the top, red at the lower right, and blue at the lower left.
+
+2. **Creating Secondary Colors**:
+   - A circle is drawn around the triangle, and a hexagon is inscribed within it.
+   - Secondary colors are created by mixing two primary colors: yellow + red = orange, yellow + blue = green, red + blue = violet.
+   - These secondary colors must be mixed carefully to avoid leaning towards either primary component.
+
+3. **Adding Tertiary Colors**:
+   - Another circle is drawn outside the first, divided into twelve equal sectors.
+   - Tertiary colors are placed in the blank sectors between the primary and secondary colors: yellow + orange = yellow-orange, red + orange = red-orange, etc.
+
+4. **Color Circle and Spectrum**:
+   - The 12-hue color circle is constructed with each hue in its specific place, following the sequence of the rainbow or natural spectrum.
+   - Newton's color circle included purple to connect red and violet, creating an augmented spectrum.
+
+5. **Complementary Colors and Visualization**:
+   - The twelve hues are evenly spaced, with complementary colors opposite each other.
+   - The author argues against creating overly complex color circles, emphasizing the importance of precise color names for meaningful discussion.
+
+6. **Historical Context and Influence**:
+   - Delacroix, an influential colorist, kept a color circle in his studio, inspiring Impressionists and other modern artists to use logical, objective color principles.
+
+---

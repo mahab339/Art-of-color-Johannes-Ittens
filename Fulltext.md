@@ -505,3 +505,63 @@ Unless our color names correspond to precise ideas, no useful discussion of colo
 Delacroix kept a color circle mounted on a wall of his studio, each color labeled with possible combinations. The Impressionists, Cézanne, Van Gogh, Signac, Seurat and others, esteemed Delacroix as an eminent colorist. Delacroix, rather than Cézanne, is the founder of the tendency, among modern artists, to construct works upon logical, objective color principles, so achieving a heightened degree of order and truth. 
 
 ---
+
+### THE SEVEN COLOR CONTRASTS 
+
+We speak of contrast when distinct differences can be perceived between two compared effects. When such differences attain their maximum degree, we speak of diametrical or polar contrasts. Thus, large-small, white-black, cold-warm, in their extremes, are polar contrasts. Our sense organs can function only by means of comparisons. The eye accepts a line as long when a shorter line is presented for comparison. The same line is taken as short when the line compared with it is longer. Color effects are similarly intensified or weakened by contrast. 
+    The physiological problem of contrast effects lies in the special field of aesthesiology, and will not be taken up here. 
+
+When we survey the characteristics of color effects, we can detect seven different kinds of contrast. These are so different that each will have to be studied separately. Each is unique in character and artistic value, in visual, expressive and symbolic effect, and together they constitute the fundamental resource of color design. 
+
+Goethe, Bezold, Chevreul and Hélzel have noted the significance of the various color contrasts. Chevreul devoted an entire work to “Contraste Simultané”. However, a systematic and practical introduction to the special effects of color contrast, with exercises, has been lacking. Such an exploration of the color contrasts is an essential part of my course of instruction. 
+
+The seven kinds of color contrast are the following: 
+1. Contrast of hue 
+2. Light-dark contrast 
+3. Cold-warm contrast 
+4. Complementary contrast 
+5. Simultaneous contrast 
+6. Contrast of saturation 
+7. Contrast of extension 
+
+---
+
+### CONTRAST OF HUE 
+
+Contrast of hue is the simplest of the seven. It makes no great demands upon color vision, because it is illustrated by the undiluted colors in their most intense luminosity. Some obvious combinations are: yellow/red/blue; red/blue/green; blue/yellow/violet; yellow/green/violet/red; violet/green/blue/orange/black. 
+
+![Fig. 38](Image/16.jpg "Fig. 38")
+
+Just as black-white represents the extreme of light-dark contrast, so yellow/red/blue is the extreme instance of contrast of hue (Fig. 38). At least three clearly differentiated hues are required. The effect is always tonic, vigorous and decided. The intensity of contrast of hue diminishes as the hues employed are removed from the three primaries. 
+
+![Fig. 39](Image/17.jpg "Fig. 39")
+
+Thus orange, green and violet are weaker in character than yellow, red and blue, and the effect of tertiary colors is still less distinct. 
+    When the single colors are separated by black or white lines, their individual characters emerge more sharply (Fig. 39). Their interaction and mutual influences are suppressed to some extent. Each hue acquires an effect of reality, concreteness. Though the triad yellow/red/blue represents the strongest contrast of hue, all pure, undiluted colors of course can participate in this contrast. 
+
+Contrast of hue assumes a large number of entirely new expressive values when the brilliances are varied. In the same way, the quantitative proportions of yellow, red and blue may be modified. Variations are numberless, and so are the corresponding expressive potentialities. Whether black and white are included as elements of the palette will depend on subject matter and individual preference. As was shown in Figs. 2-4, white weakens the luminosity of adjacent hues and darkens them; black causes them to seem lighter. Hence white and black may be powerful elements of color composition. 
+
+The same exercises might be worked out in patches of color without preassigned shapes. However, this procedure would involve hazards. The student would start experimenting with shapes instead of studying color areas and tensions. He would draw outlines, and this practice is hostile to color design and should be strictly avoided. In most exercises, we use simple stripe or checkerboard patterns. 
+
+In exercises like Figs. 38 and 39, the colors combined are placed in rectangular fields, and changes in relative size can be made horizontally. 
+
+![Fig. 40](Image/18.jpg "Fig. 40")
+
+Fig. 40 shows a checkerboard arrangement. The student must lay out the colors in two dimensions, and this develops the feeling for areal tensions. Once the combinations on the pattern of Figs. 38, 39 have been evolved, the learner can quickly discover the color selections for such exercises as shown in Fig. 40. 
+
+Very interesting studies are obtained if one hue is given the principal role, and others are used in small quantities, merely as accents. Emphasizing one color enhances expressive character. After each geometrical exercise is carried out, free compositions in the same kind of contrast should be attempted. 
+
+There are many subjects that can be painted in contrast of hue. The significance of this contrast involves the interplay of primeval luminous forces. The undiluted primaries and secondaries always have a character of aboriginal cosmic splendor as well as of concrete actuality. Therefore they serve equally well to portray a celestial coronation or a mundane still life. 
+
+Contrast of hue is found in the folk art of peoples everywhere. Gay embroidery, costume and pottery testify to primitive delight in colorful effects. In the illuminated manuscripts of the Middle Ages, contrast of hue was used in manifold variations, often not from motives of aesthetic necessity but out of sheer pleasure in decorative invention. 
+
+Contrast of hue is dominant also in early stained glass, its primordial force actually asserting itself over the plastic form of architecture. Stefan Lochner, Fra Angelico and Botticelli are among painters who have based compositions on contrast of hue. 
+
+Perhaps the grandest example of its significant use is Grunewald’s “Resurrection” (Plate XXVII), where this contrast displays all of its universalistic power of expression. 
+
+So in Botticelli’s “Lamentation” (in the Pinakothek, Munich), contrast of hue serves to characterize the all-embracing grandeur of the scene. The totality of hues symbolizes the cosmic significance of the epochal event. 
+
+Here we see that the expressive potentialities of one and the same color contrast may be widely diverse. Contrast of hue may alike express boisterous joviality, profound grief, earthy simplicity and cosmic universality. 
+    Among the moderns, Matisse, Mondrian, Picasso, Kandinsky, Léger and Miré have frequently composed in this mode. Matisse especially uses it in still-life and figure paintings. A good example is the portrait “Le Collier d’Ambre,” painted in the pure colors of red, yellow, red-violet, white and black. This combination expressively characterizes a young, sensitive and clever woman. 
+The Blaver Reiter painters Kandinsky, Franz Marc and August Macke, worked in contrast of hue almost exclusively during their early period. 
+    Out of the wealth of examples available, I have chosen four for discussion. 

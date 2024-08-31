@@ -300,3 +300,43 @@ Intuitive feeling navigates the irrational and metaphysical realms, surpassing d
    - Delacroix, an influential colorist, kept a color circle in his studio, inspiring Impressionists and other modern artists to use logical, objective color principles.
 
 ---
+
+## Seven Color Contrasts
+
+- **Contrast Definition**: Contrast is the perceived difference between two effects. Maximum contrast is seen in polar opposites like large-small, white-black, and cold-warm. Our senses rely on comparisons to function.
+
+- **Types of Color Contrast**: There are seven distinct types of color contrast, each with unique visual, expressive, and symbolic effects. These contrasts are fundamental to color design.
+
+- **Historical Context**: Notable figures like Goethe, Bezold, Chevreul, and Hélzel have explored color contrasts. Chevreul's work on "Contraste Simultané" is significant, but a systematic introduction with exercises has been lacking.
+
+- **Seven kinds of color contrast** are: contrast of hue, light-dark contrast, cold-warm contrast, complementary contrast, simultaneous contrast, contrast of saturation, contrast of extension.
+
+---
+
+### Contrast of Hue
+
+- **Basic Concept**: Contrast of hue is the simplest form, illustrated by undiluted colors in their most intense luminosity. Examples include combinations like yellow/red/blue and red/blue/green.
+
+- **Intensity and Effect**: The strongest contrast of hue is seen with primary colors (yellow, red, blue). Secondary and tertiary colors have weaker contrasts. Separating colors with black or white lines enhances their individual characters.
+
+- **Expressive Values**: Varying the brilliance and proportions of hues can create numerous expressive possibilities. The inclusion of black and white can significantly impact color composition.
+
+- **Practical Exercises**: Exercises should focus on color areas and tensions, avoiding shapes to prevent distraction from color study. Simple patterns like stripes or checkerboards are recommended.
+
+1. **Exercises with Rectangular Fields**:
+   In exercises like Figures 38 and 39, colors are combined in rectangular fields, allowing changes in relative size horizontally. Figure 40 shows a checkerboard arrangement, where students lay out colors in two dimensions to develop a sense of areal tensions. Once these combinations are mastered, learners can quickly discover color selections for similar exercises.
+
+2. **Principal Role of One Hue**:
+   Interesting studies emerge when one hue is given the principal role, with others used as accents. Emphasizing one color enhances its expressive character. After completing geometrical exercises, students should attempt free compositions using the same contrast.
+
+3. **Subjects for Contrast of Hue**:
+   Many subjects can be painted using contrast of hue, which involves the interplay of primeval luminous forces. Undiluted primaries and secondaries have a character of cosmic splendor and concrete actuality, suitable for both celestial and mundane subjects.
+
+4. **Historical and Cultural Use**:
+   Contrast of hue is prevalent in folk art worldwide, seen in embroidery, costumes, and pottery. In medieval illuminated manuscripts, it was used for decorative invention. Early stained glass also showcases this contrast, asserting itself over architectural forms.
+
+5. **Notable Artists**:
+   Painters like Stefan Lochner, Fra Angelico, and Botticelli based compositions on contrast of hue. Grunewald’s “Resurrection” and Botticelli’s “Lamentation” are grand examples, using hue contrast to express cosmic significance and diverse emotions.
+
+6. **Modern Artists**:
+   Modern artists like Matisse, Mondrian, Picasso, Kandinsky, Léger, and Miró frequently composed using contrast of hue. Matisse’s portrait “Le Collier d’Ambre” is a notable example, using pure colors to characterize a young, sensitive woman. The Blauer Reiter painters, including Kandinsky, Franz Marc, and August Macke, also worked extensively with hue contrast in their early periods.

@@ -340,3 +340,49 @@ Intuitive feeling navigates the irrational and metaphysical realms, surpassing d
 
 6. **Modern Artists**:
    Modern artists like Matisse, Mondrian, Picasso, Kandinsky, Léger, and Miró frequently composed using contrast of hue. Matisse’s portrait “Le Collier d’Ambre” is a notable example, using pure colors to characterize a young, sensitive woman. The Blauer Reiter painters, including Kandinsky, Franz Marc, and August Macke, also worked extensively with hue contrast in their early periods.
+
+#### Plate I: L'Eglise d'Ephése, from “Apocalypse de Saint Sever,” 11th century
+
+![Plate I: L'Eglise d'Ephése](Image/19.jpg "Plate I: L'Eglise d'Ephése")
+
+The eleventh-century manuscript, preserved in the Bibliothèque Nationale in Paris, features paintings executed in contrast of hue. This technique gives the work an abstract, supra-real expression, fitting the theme of the Apocalypse. In the illustration, three colors—yellow, red, and blue—are prominently displayed in five horizontal stripes, with green added in the architecture and figures. Rhythmic outlines in black and red create special accents between the colors, while the horizontal stripes contrast with the vertical figures. The garments and wings' rhythmic lines contrast with the plain background, and the columns and roofs have opposing scaly textures.
+
+**Symbolism and Color Dominance**
+The illustration's color areas are significant, with yellow dominating. Symbolically, yellow represents intellect, knowledge, wisdom, or enlightenment. The blue-winged angel, emerging from the blue, is green and red, with his red dress symbolizing fiery activity. St. John, the message recipient, appears in passive blue and green. The white faces beneath black hair add an abstract effect. The seven towers symbolize the seven churches in the seven cities to which John will send the message. The forms and colors in these illuminations are symbolic, conveying grandiose truths through the elementary colors yellow, red, blue, and green.
+
+**Future Discussion**
+Plate XVI, “Satan and the Locusts,” from the same manuscript, will be discussed under the heading of composition. This continuation will further explore the symbolic and compositional elements of the manuscript's illustrations.
+
+The **Apocalypse of Saint-Sever**, also known as the **Saint-Sever Beatus**, is an illuminated manuscript from the 11th century. It was created at the Saint-Sever Abbey under the direction of Abbot Gregory of Montaner. The manuscript contains the **Commentary on the Apocalypse** by Beatus of Liébana, a commentary on Daniel by Saint Jerome, and a treatise on the Virgin Mary by Saint Ildefonsus¹.
+
+The manuscript is renowned for its detailed and vivid illustrations, which depict scenes from the Book of Revelation. These illustrations are considered a significant achievement in medieval Spanish illumination¹.
+
+"L'Église d'Éphèse" translates to "The Church of Ephesus" in English. This term is often referenced in the context of the Book of Revelation (Apocalypse) in the Bible, where it is one of the seven churches addressed by Jesus through the Apostle John².
+
+Source: Copilot، 1/9/2024 
+
+¹: [Saint-Sever Beatus - Wikipedia.](https://en.wikipedia.org/wiki/Saint-Sever_Beatus).
+
+²: [L’Église d’Éphèse - Vie, Espoir et Verite](https://vieespoiretverite.org/propheties/apocalypse/sept-eglises-de-lapocalypse/ephese/).
+
+4: [Apocalypse 2 SG21 - Lettre à l'Eglise d'Ephèse - Bible Gateway.](https://www.biblegateway.com/passage/?search=Apocalypse%202&version=SG21).
+
+5: [Apocalypse 2:1 Ecris à l'ange de l'Eglise d'Ephèse: Voici ce que dit ....](https://saintebible.com/revelation/2-1.htm).
+
+6: [Commentary on the Apocalypse (MS M.644).](https://www.themorgan.org/collection/commentary-apocalypse/110807).
+
+7: [Commentary on the Apocalypse - Wikipedia.](https://en.wikipedia.org/wiki/Commentary_on_the_Apocalypse).
+
+#### Plate II 
+
+![Plate II: Coronation of the Virgin](Image/20.jpg "Plate II: Coronation of the Virgin")
+
+### Plate II: Enguerrand Charonton, 15th century; Coronation of the Virgin
+
+This painting is divided into two main parts by a film of white cloud, separating the celestial from the terrestrial world. The terrestrial world, painted in grayish tones, is divided into the upper and nether world, with the saved on the left and the damned on the right. In the center of the upper world stands a gigantic crucifix, rising high into the dull blue aerial ocean. All forms in the terrestrial world are tiny and insignificant compared to the heroic central group of God the Father, Christ, and Mary in heaven. These three figures are emphasized by their overwhelming stature, intensified by the contrast with the size of the crucifix, which is enormous relative to earthly cities but minute by celestial scale. This relationship expresses the universal significance of Christ’s mission.
+
+The main central group is separated from the ocean by the white arc of Mary's robe, providing a contrast of form with the horizontal layer of white cloud. The circle and its arc symbolize the heavenly infinite, contrasting with the square, representing earthly limitation. The heavenly arc is repeated in the white clouds beneath the mantles of the Father and the Son. To the left and right of the main group, the saints are represented in vivid colors and medium proportions. The three different scales, from the small temporal world to the great central group, and the intermediate size of the saints, connote a hierarchy of being.
+
+A white ermine facing marks off the luminous blue of the Virgin's mantle from the dull blue of the ocean. Her gold brocade gown rises stiffly, as if inanimate, with only her face and hands appearing lifelike. Her body is largely eclipsed on either side by the mantles of the crowning Persons. Above Mary’s head hovers the white dove of the Holy Spirit. A perpendicular line drawn from the crucifix would intersect the cross on the dove’s nimbus at the upper edge of the picture. God the Father and God the Son are enthroned to the right and left of this line, nearly symmetrical, with the only asymmetrical feature being the gold brocade border descending Christ's robe, paralleling Mary's brocade dress and indicating the corporeal bond of Mother and Son.
+
+This central group is encircled by a heavenly host depicted in an orange tone. Above them shines yellow celestial light, continued on either side down to the blue sea, causing the central group to appear flat and incorporeal as if floating in the light. These yellow areas function similarly to the blue angels in each upper corner of the picture, which repeat the blue color of the Virgin's mantle, intensifying the floating effect of the central group. In the composition of this monumental painting, Charonton used the colors gold, orange, red, blue, green, white, and gray. At the top, he begins with yellow, materialized celestial light, which condenses into darker orange, representing the might of the heavenly hosts. Contrasting with this transcendental world is the red of the mantles of the Father and Son, descending out of divine love into the intermediate world to crown the Virgin. Their garments are white, while Mary’s gold brocade dress signifies ennobled, purified corporeality, and the blue of her robe expresses passivity and pious resignation. The groups of saints to the left and right of the picture display clear, luminous, colorful life, while the terrestrial world seems gray and joyless. Only at the extreme left and right do two structures appear in light red, suggesting mankind's communion with the divine sphere. This painting by Charonton evidences the same universality as Grunewald's works.

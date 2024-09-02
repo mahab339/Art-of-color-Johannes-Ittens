@@ -373,11 +373,10 @@ Source: Copilot، 1/9/2024
 
 7: [Commentary on the Apocalypse - Wikipedia.](https://en.wikipedia.org/wiki/Commentary_on_the_Apocalypse).
 
-#### Plate II 
-
-![Plate II: Coronation of the Virgin](Image/20.jpg "Plate II: Coronation of the Virgin")
 
 ### Plate II: Enguerrand Charonton, 15th century; Coronation of the Virgin
+
+![Plate II: Coronation of the Virgin](Image/20.jpg "Plate II: Coronation of the Virgin")
 
 This painting is divided into two main parts by a film of white cloud, separating the celestial from the terrestrial world. The terrestrial world, painted in grayish tones, is divided into the upper and nether world, with the saved on the left and the damned on the right. In the center of the upper world stands a gigantic crucifix, rising high into the dull blue aerial ocean. All forms in the terrestrial world are tiny and insignificant compared to the heroic central group of God the Father, Christ, and Mary in heaven. These three figures are emphasized by their overwhelming stature, intensified by the contrast with the size of the crucifix, which is enormous relative to earthly cities but minute by celestial scale. This relationship expresses the universal significance of Christ’s mission.
 
@@ -386,3 +385,25 @@ The main central group is separated from the ocean by the white arc of Mary's ro
 A white ermine facing marks off the luminous blue of the Virgin's mantle from the dull blue of the ocean. Her gold brocade gown rises stiffly, as if inanimate, with only her face and hands appearing lifelike. Her body is largely eclipsed on either side by the mantles of the crowning Persons. Above Mary’s head hovers the white dove of the Holy Spirit. A perpendicular line drawn from the crucifix would intersect the cross on the dove’s nimbus at the upper edge of the picture. God the Father and God the Son are enthroned to the right and left of this line, nearly symmetrical, with the only asymmetrical feature being the gold brocade border descending Christ's robe, paralleling Mary's brocade dress and indicating the corporeal bond of Mother and Son.
 
 This central group is encircled by a heavenly host depicted in an orange tone. Above them shines yellow celestial light, continued on either side down to the blue sea, causing the central group to appear flat and incorporeal as if floating in the light. These yellow areas function similarly to the blue angels in each upper corner of the picture, which repeat the blue color of the Virgin's mantle, intensifying the floating effect of the central group. In the composition of this monumental painting, Charonton used the colors gold, orange, red, blue, green, white, and gray. At the top, he begins with yellow, materialized celestial light, which condenses into darker orange, representing the might of the heavenly hosts. Contrasting with this transcendental world is the red of the mantles of the Father and Son, descending out of divine love into the intermediate world to crown the Virgin. Their garments are white, while Mary’s gold brocade dress signifies ennobled, purified corporeality, and the blue of her robe expresses passivity and pious resignation. The groups of saints to the left and right of the picture display clear, luminous, colorful life, while the terrestrial world seems gray and joyless. Only at the extreme left and right do two structures appear in light red, suggesting mankind's communion with the divine sphere. This painting by Charonton evidences the same universality as Grunewald's works.
+
+#### Plate III 
+
+![Plate III: May-Day Excursion](Image/21.jpg "Plate III: May-Day Excursion")
+
+Piet Mondrian's contribution to modern painting is significant, focusing on contrast of proportion and hue. He consistently used squares, subdividing the picture area with straight lines. This method gave small configurations great significance and made large forms appear congealed. High sensitivity to proportion was essential to balance all areas of his paintings.
+
+In his later works, Mondrian used fundamental colors: yellow, red, blue, white, and black. Each color's position and orientation were crucial. For example, in "Composition 1928," he balanced a small blue area with a large white area and intensified the composition with a slender yellow area. Broad black lines divided the field, isolating each color and enhancing clarity.
+
+Mondrian's forms and colors were used without expressional or symbolic intent, aiming for a clean, strong, geometrical realism. He believed modern life was becoming more abstract, with real interest turning inward. He saw modern life as neither purely materialistic nor purely emotional but as an autonomous life of the human spirit aware of itself.
+
+### Plate IV
+
+![Plate IV: Composition 1928](Image/22.jpg "Plate IV: Composition 1928")
+
+Piet Mondrian's contribution to modern painting is significant, focusing on contrast of proportion and hue. He consistently used squares, subdividing the picture area with straight lines. This method gave small configurations great significance and made large forms appear congealed. High sensitivity to proportion was essential to balance all areas of his paintings.
+
+In his later works, Mondrian used fundamental colors: yellow, red, blue, white, and black. Each color's position and orientation were crucial. For example, in "Composition 1928," he balanced a small blue area with a large white area and intensified the composition with a slender yellow area. Broad black lines divided the field, isolating each color and enhancing clarity.
+
+Mondrian's forms and colors were used without expressional or symbolic intent, aiming for a clean, strong, geometrical realism. He believed modern life was becoming more abstract, with real interest turning inward. He saw modern life as neither purely materialistic nor purely emotional but as an autonomous life of the human spirit aware of itself.
+
+---

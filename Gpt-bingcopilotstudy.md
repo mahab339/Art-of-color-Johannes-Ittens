@@ -374,7 +374,7 @@ Source: Copilot، 1/9/2024
 7: [Commentary on the Apocalypse - Wikipedia.](https://en.wikipedia.org/wiki/Commentary_on_the_Apocalypse).
 
 
-### Plate II: Enguerrand Charonton, 15th century; Coronation of the Virgin
+#### Plate II: Enguerrand Charonton, 15th century; Coronation of the Virgin
 
 ![Plate II: Coronation of the Virgin](Image/20.jpg "Plate II: Coronation of the Virgin")
 
@@ -396,7 +396,7 @@ In his later works, Mondrian used fundamental colors: yellow, red, blue, white, 
 
 Mondrian's forms and colors were used without expressional or symbolic intent, aiming for a clean, strong, geometrical realism. He believed modern life was becoming more abstract, with real interest turning inward. He saw modern life as neither purely materialistic nor purely emotional but as an autonomous life of the human spirit aware of itself.
 
-### Plate IV
+#### Plate IV
 
 ![Plate IV: Composition 1928](Image/22.jpg "Plate IV: Composition 1928")
 
@@ -407,3 +407,38 @@ In his later works, Mondrian used fundamental colors: yellow, red, blue, white, 
 Mondrian's forms and colors were used without expressional or symbolic intent, aiming for a clean, strong, geometrical realism. He believed modern life was becoming more abstract, with real interest turning inward. He saw modern life as neither purely materialistic nor purely emotional but as an autonomous life of the human spirit aware of itself.
 
 ---
+
+### Light-Dark Contrast
+
+1. **Fundamental Polarity**:
+   Day and night, light and darkness are fundamental polarities in human life and nature. The strongest expressions of light and dark for painters are white and black. The effects of these colors are opposite, with grays and chromatic colors in between. Studying these phenomena provides valuable guidance for artistic work.
+
+2. **Maximal Black and White**:
+   Black velvet is considered the blackest black, and baryta the purest white. There is only one maximal black and one maximal white, but countless shades of gray exist between them. The number of distinguishable grays depends on the observer's sensitivity, which can be improved with practice.
+
+3. **Sensitivity to Tonal Differences**:
+   A uniformly gray surface can become active with minute shading modulations, requiring extreme sensitivity to tonal differences. Neutral gray is achromatic and influenced by contrasting shades and hues. It transforms subjectively in the eye, depending on neighboring colors, and can reconcile oppositions by absorbing their strength.
+
+![Fig. 41](Image/23.jpg "Fig. 41")
+
+4. **Mixing Gray**:
+   Gray can be mixed from black and white, or from yellow, red, blue, and white, or any pair of complementary colors. Figure 41 shows a series of grays from white to black in twelve steps, with even spacing and uniform steps. Similar scales can be prepared for any chromatic color.
+
+![Fig. 42](Image/24.jpg "Fig. 42")
+![Fig. 43](Image/25.jpg "Fig. 43")
+
+5. **Exercises for Sensitivity**:
+   Exercises like those in Figure 42 involve selecting grays and arranging them in compositions to assess talent for chiaroscuro. Figure 43 shows a light-dark combination on a checkered surface, emphasizing the cultivation of vision and perception of light-dark gradations and contrasts.
+
+![Fig. 44](Image/26.jpg "Fig. 43")
+
+6. **Contrast of Proportion**:
+   Once an understanding of white-gray-black gradation is achieved, contrast of proportion or quantity can be added to light-dark contrast. This involves contrasts like large-small, long-short, wide-narrow, and thick-thin. These exercises illustrate the relationship between shapes and their negatives, with black areas seen as positive and white as negative in black-and-white prints.
+
+![Fig. 57](Image/27.jpg "Fig. 57")
+
+7. **Seurat's Study**:
+   In his sketches, Seurat meticulously explored light-dark gradations. In the example of "Le Noeud," the standing figure is outlined with contrasting light and dark lines, and its form is modeled with subtle transitions of light and dark areas. The shading development from the shoulder highlight to the deep baseline tone, and its connection to the dark background, demonstrates mastery of light-dark composition. Seurat's attention to detail in each pinpoint evokes delicate shadings.
+
+Source: Copilot، 4/9/2024
+1: [Johannes Itten Paintings, Bio, Ideas | TheArtStory.](https://www.theartstory.org/artist/itten-johannes/). 

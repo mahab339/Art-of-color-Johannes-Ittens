@@ -617,3 +617,44 @@ Mart Stam collection
 Mondrian’s original contribution to modern painting is momentous. His choice of theme never varies. His paintings employ two elementary resources, contrast of proportion and contrast of hue. Among the three categories of shape — square, circle, triangle — he selected the square, the form determined by horizontal and vertical direction. He subdivides the picture area with straight lines. The quantitative proportions of the resulting areas assume a peculiarly independent life. Small configurations gain great significance by their placement in the field, while large forms recede and seem as if congealed. High sensitivity to proportion is required to organize all areas of a painting into a balanced whole. 
     In-his later pictures, Mondrian confined himself to the fundamental colors yellow, red, blue, white and black. Each of these colors has its unique character and special weight. The position of each color is very important, and so is its orientation, horizontal or vertical. As in “Composition 1928,” Mondrian can create a stable equilibrium with a small blue area and a large white area, or intensify the whole with a slender horizontal yellow area at the bottom. Great stability and clarity are achieved by dividing the field with broad black lines. The separating black causes each color to appear isolated and concrete. Mondrian’s forms and colors are used without expressional or symbolic intent. His feeling for clean design leads him to an unadorned, visually strong, geometrical, elemental realism of form and color. 
 The following statement is Mondrian’s own: "The life of civilized man today is turning aside, little by little, from natural things, to become increasingly an abstract life. As natural (external) things become more and more automatic, real interest, as we see, turns rather to things internal. The truly modern man’s life is determined neither in a purely materialistic way nor purely by feeling. Rather, it assumes the guise of a more autonomic life of the human spirit grown aware of itself.” 
+
+---
+
+### LIGHT-DARK CONTRAST
+
+Day and night, light and darkness — this polarity is of fundamental significance in human life and nature generally. The painter's strongest expressions of light and dark are the colors white and black. The effects of black and white are in all respects opposite, with the realm of grays and chromatic colors between them. The phenomena of light and dark, both among white, black and gray, and among pure colors, should be thoroughly studied, for they yield valuable guides to our work. 
+
+Black velvet is perhaps the blackest black, and baryta is the purest white. There is only one maximal black and one maximal white, but an indefinitely large number of light and dark grays, forming a continuous scale between white and black. 
+
+The number of distinguishable shades of gray depends on the sensitivity of the eye and the response threshold of the observer. This threshold can be lowered by practice, increasing the number of perceptible gradations. A uniformly gray, lifeless surface can be awakened to mysterious activity by extremely minute modulations of shading. This very important factor in painting and drawing requires extreme sensitivity to tonal differences.<br> 
+    &nbsp;&nbsp;&nbsp;&nbsp;Neutral gray is a characterless, indifferent, achromatic color, very readily influenced by contrasting shade and hue. It is mute, but easily excited to thrilling resonances. Any color will instantly transform gray from its neutral, achromatic state to a complementary color effect corresponding mathematically to the activating color. This transformation occurs subjectively, in the eye, not objectively in the colors themselves. Gray is a sterile neuter, dependent on its neighboring colors for life and character. It attenuates their force and mellows them. It will reconcile violent oppositions by absorbing their strength and thereby, vampire-like, assuming a life of its own.<br> 
+Delacroix objected to gray for this reason, as injurious to the power of color. 
+
+Gray may be mixed from black and white, or from yellow, red, blue and white, or from any pair of complementary colors. 
+
+![Fig. 41](Image/23.jpg "Fig. 41")
+
+Fig. 41 represents a regular series of grays from white to black, in twelve steps. It is important to space the steps evenly. The gray of medium brilliance should be in the center of the scale. Each individual step should be perfectly uniform and spotless, with neither a light nor a dark line between it and its neighbors. Similar scales of brilliance can be prepared for any chromatic color. In the blue scale, blue is darkened with black down to blue-black, and lightened with white up to blue-white. 
+
+These exercises serve to sharpen the student's sensitivity to shading. The twelve steps are not intended, as in music, to represent a system of “equal temperament.” In the art of color, not only precise intervals but inappreciable transitions, comparable to the glissando in music, may be important vehicles of expression. (See Fig. 57.) 
+
+The following exercises are intended to enlarge comprehension of light-dark contrast. 
+
+![Fig. 42](Image/24.jpg "Fig. 42")
+
+Fig. 42: Certain grays are selected from the scale of grays obtained, and they are then arranged in four equal areas to form a composition. When five or six such compositions have been completed, they are rated comparatively. It is soon realized that some are good and convincing, others poor or false. This very simple exercise will assess a talent for chiaroscuro. 
+
+![Fig. 43](Image/25.jpg "Fig. 43")
+
+Fig. 43 shows the development of a light-dark combination upon a checkered surface. This composition may be lightened or darkened as a whole; the main point is to cultivate vision and perception of light-dark gradations and their contrasts. 
+
+![Fig. 44](Image/26.jpg "Fig. 43")
+
+Fig. 44: When an understanding of white-gray-black gradation has been gained, contrast of proportion or quantity may be added to light-dark contrast. Two contrasts then operate simultaneously. Contrast of proportion comprises large-small, long-short, wide-narrow, thick-thin. Let us follow out some simple exercises in problems of proportion. These will also illustrate the relationship of shape to its negative or inverse. In black-and-white print, we think of the black area as positive and the white as its negative. 
+
+Fig. 57: Seurat, Le Noeud, study. 
+
+![Fig. 57](Image/27.jpg "Fig. 57")
+
+In his numerous sketches, Seurat explored light-dark gradations most conscientiously. In this example, the standing figure is outlined with one light and one dark line of contrast, and its plastic form is modeled with light and dark areas in very subtle transitions. The way the shading is developed from the shoulder highlight gradually to the deep tone of the baseline, and the latter linked to the tones of the dark background, is authoritative. The fall of the black bow and its linkage to the dark tone of the dress also show conscious mastery of light-dark composition.<br> 
+    &nbsp;&nbsp;&nbsp;&nbsp;Seurat’s drawings, like his paintings, give one the feeling that he is devoting thought to each pinpoint in order to evoke the most delicate of shadings.

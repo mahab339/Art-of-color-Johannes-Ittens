@@ -442,3 +442,20 @@ Mondrian's forms and colors were used without expressional or symbolic intent, a
 
 Source: Copilot، 4/9/2024
 1: [Johannes Itten Paintings, Bio, Ideas | TheArtStory.](https://www.theartstory.org/artist/itten-johannes/). 
+
+![Fig. 45 - fig. 52](Image/28.jpg "Fig. 45 - fig. 52")
+
+8. **Contrast of Proportion**:
+   Figures 45 to 52 illustrate various contrasts of proportion in light-dark compositions. For example, Figure 45 shows equal widths of black and white, while Figure 46 contrasts narrow positive with wide negative spaces. These exercises help understand the relationship between shapes and their negative spaces.
+
+9. **Triads and Tetrads**:
+   Figures 49 to 52 explore triads and tetrads of gray, white, and black, emphasizing the importance of grouping and clear distinctions of light and dark. Repetition of narrow lines interconnects the groups, creating rhythm and balance.
+
+10. **Artistic Techniques**:
+   Much European and Asian art is based on pure light-dark contrast. Chinese and Japanese ink drawings, derived from calligraphy, exemplify this technique. Correct brushwork requires a sense of form, rhythm, and relaxed attentiveness, akin to the precision of an archer.
+
+11. **Chinese Calligraphy**:
+   Figure 53 shows the rhythmic harmony of Chinese characters, achieved through a balance of black brush strokes and white intervals. This harmony reflects the calligrapher's inner composure and mastery of light-dark contrast, developed through extensive practice and meditation.
+
+12. **Meditative Practice**:
+   The practice of calligraphy and painting in China and Japan involves mental concentration and physical relaxation. Meditation, particularly in Ch’an or Zen Buddhism, underpins this training, with many monks becoming great artists in black and white. They used brushwork as a tool for meditative internalization.

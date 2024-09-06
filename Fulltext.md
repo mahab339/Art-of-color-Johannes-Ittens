@@ -676,3 +676,23 @@ Of course, infinite variations on each of these themes are possible. <br>
 
 Fig. 53 shows two Chinese characters. The rhythmic harmony of these symbols, their structure, their rich contrast of forms, abstract and organically integrated, are exquisitely beautiful. This effect is made possible by a perfect equilibrium between the black brush strokes and the white intervals. When we recall that these characters were executed cursively, we can appreciate the harmonic powers and inner composure of the calligrapher.  <br> 
     &nbsp;&nbsp;&nbsp;&nbsp;This writing proceeds from an inward automatism. After endless practice, the strokes at last flow effortlessly from the brush; and in the same way, the Chinese or Japanese painter practices the lexicon of nature until he can reproduce it at will. This discipline presupposes mental concentration and physical relaxation. Meditation as practiced particularly in Ch’an, or Zen, Buddhism provides the foundation of this training of mind and body. Accordingly, many monks of this sect are to be found among the great artists in black and white. They did not engage in meditation in order to become great painters; they worked with the brush as an aid to meditative internalization. 
+
+Fig. 54 shows the poet Li Po as portrayed by Liang K’ai. 
+
+![Fig. 54](Image/30.jpg "Fig. 54")
+
+One of the greatest geniuses of this medium was Liang K’ai, who lived about the first half of the thirteenth century. Each of his pictures is different from the others. This representation of the poet in a few black and gray lines and patches is unique in painting. Spots of highly differentiated size and a few spare strokes evoke a distinguished figure, striding forth with distant gaze. Each element is most delicately attuned to the total effect. Liang K’ai was a monk of the Ch’an sect. 
+
+Fig. 55 shows a detail of a mountain landscape by Sesshd. 
+
+![Fig. 55](Image/31.jpg "Fig. 55")
+
+To create this subtle group, the painter used only diluted ink in varying tones. The light open spots are of equal importance with the gray and black areas.<br> 
+    &nbsp;&nbsp;&nbsp;&nbsp;Soft gray tones are set off by hard black strokes and patches as contrasts. Contrasts of light and dark, hard and soft, and horizontal, vertical and diagonal direction, form a complex and abstract harmony in which each element is generated out of a concentrated internal process, automatic, uninhibited, and yet controlled. This strength and freshness, so spontaneously created, must have resulted from intense, sincere feeling. The Japanese painter Sessht (1420-1507) made several visits to China, where he studied Ch’an as well as painting.<br> 
+Other media of light-dark expression are the woodcut, copperplate and etching. The artist, by shading and hatching, can produce extremely differentiated gradations of light and dark. Rembrandt's etchings cover a very wide range of subject matter. As is not surprising, he also executed pen-and-ink and brush drawings in masterful chiaroscuro, often rivaling the suggestive power and clarity of East Asian work. 
+
+Fig. 56: Rembrandt, Dr. Faustus, etching. 
+
+![Fig. 56](Image/32.jpg "Fig. 32")
+
+By means of different positions of lines, the technique of etching is able to produce extraordinarily fine differentiations of shading, and therefore very lively and diversified areas. Though this etching of Rembrandt's is polytonic in light and dark, yet the many tones are grouped on two main levels of light and darkness. The questing Faustus emerges clearly as the insatiable intellect, from the antithesis of shadings. His penetration into the depths of life is dramatically visualized in the spatial tension between his figure and the luminous apparition at the window. 

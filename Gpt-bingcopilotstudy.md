@@ -459,3 +459,21 @@ Source: Copilot، 4/9/2024
 
 12. **Meditative Practice**:
    The practice of calligraphy and painting in China and Japan involves mental concentration and physical relaxation. Meditation, particularly in Ch’an or Zen Buddhism, underpins this training, with many monks becoming great artists in black and white. They used brushwork as a tool for meditative internalization.
+
+![Fig. 54](Image/30.jpg "Fig. 54")
+
+13. **Li Po by Liang K’ai**:
+   Liang K’ai, a genius of the medium, lived in the first half of the thirteenth century. His portrayal of the poet Li Po uses a few black and gray lines and patches to evoke a distinguished figure with a distant gaze. Each element is delicately attuned to the total effect. Liang K’ai was a monk of the Ch’an sect.
+
+![Fig. 55](Image/31.jpg "Fig. 55")
+
+14. **Mountain Landscape by Sesshū**:
+   Sesshū created a subtle group using only diluted ink in varying tones. Light open spots are as important as gray and black areas. Contrasts of light and dark, hard and soft, and different directions form a complex harmony. Sesshū's spontaneous strength and freshness resulted from intense, sincere feeling. He studied Ch’an and painting during his visits to China.
+
+15. **Other Media of Light-Dark Expression**:
+   Woodcut, copperplate, and etching are other media for light-dark expression. Artists can produce differentiated gradations of light and dark through shading and hatching. Rembrandt's etchings cover a wide range of subjects, often rivaling the suggestive power of East Asian work. His pen-and-ink and brush drawings also exhibit masterful chiaroscuro.
+
+![Fig. 56](Image/32.jpg "Fig. 32")
+
+16. **Rembrandt's Dr. Faustus**:
+   Rembrandt's etching "Dr. Faustus" uses different line positions to create fine shading differentiations, resulting in lively and diversified areas. The many tones are grouped on two main levels of light and darkness. The figure of Faustus, representing the insatiable intellect, is dramatically visualized in the spatial tension between his figure and the luminous apparition at the window.
